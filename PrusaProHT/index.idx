@@ -1,4 +1,7 @@
+min_slic3r_version = 2.9.1
+1.1.0 Added filament profiles for Prusament PETG Tungsten 75%, Prusament PETG Magnetite 40%, Prusament PP Carbon Fiber. Extruder clearance moved to printer settings.
 min_slic3r_version = 2.8.0-alpha0
+1.0.5 Added filament profiles for Prusament PETG Tungsten 75%, Prusament PETG Magnetite 40%, Prusament PP Carbon Fiber.
 1.0.4 Updated Prusament PEI 1010 filament profile
 1.0.3 Updated print, chamber, bed temperatures, layer times and cooling for all HT materials and PC-CF, fixed Z-offsets for most LT materials, added wipe for ASA, PC, PC-CF, adjusted PA values and lowered retraction speeds for LT materials, fixed filament types and filament g-codes, added feedrate override for carbon filled materials, slowed down print and retraction speeds for FLEX, lowered maximum print height
 1.0.2 Renamed high temp printer variant, added resources. 
