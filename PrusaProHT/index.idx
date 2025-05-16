@@ -1,4 +1,5 @@
 min_slic3r_version = 2.9.1
+1.1.2 Added filament profiles for Buddy3D ASA, Buddy3D ABS-FR, Verbatim PP.
 1.1.1 Added filament profiles for Prusament PETG Carbon Fiber, Buddy3D ABS ESD, FiberThree PA ESD, 3DXTECH PEEK, 3DXTECH PEEK-GF, Generic PCTG. Added 0.6mm nozzle profiles for Prusament PP Carbon Fiber and Prusament PETG Magnetite 40%.
 1.1.0 Added filament profiles for Prusament PETG Tungsten 75%, Prusament PETG Magnetite 40%, Prusament PP Carbon Fiber. Extruder clearance moved to printer settings.
 min_slic3r_version = 2.8.0-alpha0
