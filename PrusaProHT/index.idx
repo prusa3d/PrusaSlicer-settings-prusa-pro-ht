@@ -1,4 +1,5 @@
 min_slic3r_version = 2.9.1
+1.1.4 Added filament profile for Prusament PETG V0. Filament vendor "BASF" renamed to "Forward AM".
 1.1.3 Fixed vendor label for 3DXTECH PEEK in configuration wizard.
 1.1.2 Added filament profiles for Buddy3D ASA, Buddy3D ABS-FR, Verbatim PP.
 1.1.1 Added filament profiles for Prusament PETG Carbon Fiber, Buddy3D ABS ESD, FiberThree PA ESD, 3DXTECH PEEK, 3DXTECH PEEK-GF, Generic PCTG. Added 0.6mm nozzle profiles for Prusament PP Carbon Fiber and Prusament PETG Magnetite 40%.
