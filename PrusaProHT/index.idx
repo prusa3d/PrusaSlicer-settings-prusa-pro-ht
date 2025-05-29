@@ -1,4 +1,5 @@
 min_slic3r_version = 2.9.1
+1.1.6 Added filament profile for Prusament TPU 95A.
 1.1.5 Added filament profile for FiberThree PA ORTHO (0.6mm nozzle).
 1.1.4 Added filament profile for Prusament PETG V0. Filament vendor "BASF" renamed to "Forward AM".
 1.1.3 Fixed vendor label for 3DXTECH PEEK in configuration wizard.
