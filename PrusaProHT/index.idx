@@ -1,5 +1,6 @@
 min_slic3r_version = 2.9.1
-1.1.8 Added filament profile for Filament PM PA-GFJet (0.4 and 0.6 nozzle).
+1.1.9 Added filament profiles for FiberThree PA-CF Pro, FiberThree PA-GF Pro and Fiberon PPS-CF10.
+1.1.8 Added profiles for Filament PM PA-GFJet (0.4 and 0.6 nozzle).
 1.1.7 Added filament profile for Prusament PP Glass Fiber (0.4 and 0.6 nozzle), igus iglidur i180 and J260 (0.4 nozzle).
 1.1.6 Added filament profile for Prusament TPU 95A.
 1.1.5 Added filament profile for FiberThree PA ORTHO (0.6mm nozzle).
