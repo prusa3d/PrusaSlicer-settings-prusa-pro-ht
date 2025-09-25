@@ -1,4 +1,5 @@
 min_slic3r_version = 2.9.1
+1.1.11 Added filament profiles for Prusament PC Space Grade, Prusament Woodfill, Prusament rPLA, Filament PM ASA (0.4mm and 0.6mm nozzle).
 1.1.10 Updated filament profile for Verbatim PP.
 1.1.9 Added filament profiles for FiberThree PA-CF Pro, FiberThree PA-GF Pro and Fiberon PPS-CF10.
 1.1.8 Added profiles for Filament PM PA-GFJet (0.4 and 0.6 nozzle).
